@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\bin\Debug\net8.0\Auth.Infrastructure.deps.json
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\bin\Debug\net8.0\Auth.Infrastructure.dll
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\bin\Debug\net8.0\Auth.Infrastructure.pdb
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\bin\Debug\net8.0\Auth.Application.dll
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\bin\Debug\net8.0\Auth.Domain.dll
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\bin\Debug\net8.0\Auth.Application.pdb
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\bin\Debug\net8.0\Auth.Domain.pdb
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Inf.EC29ECAC.Up2Date
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.dll
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\refint\Auth.Infrastructure.dll
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.pdb
+C:\Users\ADMIN\source\repos\Auth\Auth.Api\Auth.Infrastructure\obj\Debug\net8.0\ref\Auth.Infrastructure.dll

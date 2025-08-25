@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C349CAB7-7DA7-4A35-B338-6B4B7D9E1756}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.infrastructure\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349CAB7-7DA7-4A35-B338-6B4B7D9E1756}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.domain\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.domain\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349CAB7-7DA7-4A35-B338-6B4B7D9E1756}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.infrastructure\\services\\loginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349CAB7-7DA7-4A35-B338-6B4B7D9E1756}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\services\\loginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.domain\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45BD1E4-8E40-4225-A95F-922F1D14E66C}|Auth.Application\\Auth.Application.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.application\\repository\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45BD1E4-8E40-4225-A95F-922F1D14E66C}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\repository\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349CAB7-7DA7-4A35-B338-6B4B7D9E1756}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349CAB7-7DA7-4A35-B338-6B4B7D9E1756}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB7562-15D9-4E4F-B009-9B9D594D0897}|Auth.Api\\Auth.Api.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FB7562-15D9-4E4F-B009-9B9D594D0897}|Auth.Api\\Auth.Api.csproj|solutionrelative:auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB7562-15D9-4E4F-B009-9B9D594D0897}|Auth.Api\\Auth.Api.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FB7562-15D9-4E4F-B009-9B9D594D0897}|Auth.Api\\Auth.Api.csproj|solutionrelative:auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45BD1E4-8E40-4225-A95F-922F1D14E66C}|Auth.Application\\Auth.Application.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.application\\repository\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45BD1E4-8E40-4225-A95F-922F1D14E66C}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\repository\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FB7562-15D9-4E4F-B009-9B9D594D0897}|Auth.Api\\Auth.Api.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5FB7562-15D9-4E4F-B009-9B9D594D0897}|Auth.Api\\Auth.Api.csproj|solutionrelative:auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|c:\\users\\admin\\source\\repos\\auth\\auth.api\\auth.domain\\model\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A478BC84-9862-4B07-AA3A-0BAA9E242B93}|Auth.Domain\\Auth.Domain.csproj|solutionrelative:auth.domain\\model\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 82,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Infrastructure\\Services\\LoginServices.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\Services\\LoginServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Infrastructure\\Services\\LoginServices.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\Services\\LoginServices.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:52:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Auth.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Api\\Program.cs",
+              "RelativeToolTip": "Auth.Api\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:40:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Infrastructure\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Infrastructure\\Services\\TokenServices.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\Services\\TokenServices.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwC4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:54:22.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:37:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\Users.cs",
+              "RelativeToolTip": "Auth.Domain\\Model\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:01:27.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\Login.cs",
+              "RelativeToolTip": "Auth.Domain\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:38:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\Roles.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Model\\Roles.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\Roles.cs",
+              "RelativeToolTip": "Auth.Domain\\Model\\Roles.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:02:57.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:42:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Application\\Repository\\ILogin.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Repository\\ILogin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Application\\Repository\\ILogin.cs",
+              "RelativeToolTip": "Auth.Application\\Repository\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:50:09.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Api\\appsettings.json",
+              "RelativeToolTip": "Auth.Api\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T13:40:43.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Application\\Repository\\IToken.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Repository\\IToken.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Application\\Repository\\IToken.cs",
+              "RelativeToolTip": "Auth.Application\\Repository\\IToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:52:12.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Auth.Domain\\Model\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Auth\\Auth.Api\\Auth.Domain\\Model\\UserRoles.cs",
+              "RelativeToolTip": "Auth.Domain\\Model\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:02:04.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 318,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
