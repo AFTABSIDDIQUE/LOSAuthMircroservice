@@ -23,7 +23,7 @@ namespace Auth.Api.Controllers
             var validate = login.Logins(data);
             if (validate != null)
             {
-                return Ok(new { message = "Login successful", datas = data, token = validate });
+                return Ok(new { token = validate });
             }
             else
             {

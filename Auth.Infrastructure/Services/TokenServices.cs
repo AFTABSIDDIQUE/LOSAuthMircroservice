@@ -46,7 +46,7 @@ namespace Auth.Infrastructure.Services
                 {
                 new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
                 new Claim(ClaimTypes.Role, roleName.RoleName), // assuming RoleName is the name
-                new Claim("CustomData", details.PasswordHash)
+                new Claim("CustomData", details.UserName)
             };
 
             // Create the JWT token
